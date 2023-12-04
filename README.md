@@ -17,7 +17,8 @@ EOQ will be determined to identify the ideal order quantity, minimizing overall 
 Inventory Management Strategy:
 
 
-2)  Offer strategic recommendations for process improvements within the inventory management lifecycle.
+2) Offer strategic recommendations for process improvements within the inventory management lifecycle:
+
 Propose enhancements in procurement and production processes to increase operational efficiency.
 Develop a comprehensive inventory management strategy to align with organizational goals, streamline processes, and enhance overall effectiveness.
 
