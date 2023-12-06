@@ -39,19 +39,23 @@ PROJECT STEPS:
 Data Loading:
 
 
-i)  Use Python (Pandas library) to load datasets (Purchase_prices, Beginning_inventory,End_inventory, Invoice_purchases, Purchases, Sales). Data Cleaning and Merging:
+i)  Use Python (Pandas library) to load datasets (Purchase_prices, Beginning_inventory,End_inventory, Invoice_purchases, Purchases, Sales). 
 
 
-ii) Assess and clean redundant columns in each dataset.
+
+Data Cleaning and Merging:
 
 
-iii) Drop redundant columns.
+i) Assess and clean redundant columns in each dataset.
 
 
-iv) Merge datasets based on common columns where applicable.
+ii) Drop redundant columns.
 
 
-v) Handle missing values (NaN) in the merged datasets.
+iii) Merge datasets based on common columns where applicable.
+
+
+iv) Handle missing values (NaN) in the merged datasets.
 
 
 
@@ -71,3 +75,88 @@ i) Visualize key variables using Python (Matplotlib, Seaborn).
 
 
 ii) Explore dispersion of key metrics.
+
+
+
+
+SQL Phase: Data Analysis and Key Insights
+
+
+Database Creation:
+i) Create a SQL database and tables  for the cleaned and merged datasets
+
+ 
+ Querying:
+
+
+i) Use SQL queries to analyze sales and inventory data.
+
+
+ii) Evaluate supplier performance with SQL.
+
+
+iii) Calculate inventory turnover ratios.
+
+
+iv) Perform demand forecasting analysis using SQL.
+
+
+
+Identify Slow-Moving Items:
+
+
+i)  SQL to identify slow-moving items.
+
+
+Tableau Phase:  Presentation and Recommendations
+
+
+Data Connection:
+
+
+i) Connect Tableau to the SQL database.
+
+
+Create Visualizations:
+
+
+i) Design visualizations (charts, graphs) in Tableau to showcase key insights.
+
+
+ii) Visualize trends, seasonality, and product performance.
+
+
+Dashboard Creation:
+
+i) Build interactive dashboards in Tableau to present findings effectively.
+
+
+Optimization Strategies Visualization:
+
+
+i) Use Tableau to visualize proposed strategies for optimizing stock levels,managing suppliers, and improving inventory efficiency.
+
+
+Cost Reduction Opportunities Visualization:
+
+
+i) Visualize opportunities for cost reduction in inventory management processes.
+
+
+Enhancing Customer Experience Visualization:
+
+
+i) Showcase strategies to enhance overall customer experience through improved inventory management
+
+
+
+Final Presentation Preparation: Insights and Recommendations:
+
+
+i) Compile key insights from Python and SQL phases.
+
+ii) Prepare actionable recommendations for inventory management improvement. 
+
+
+
+This plan considers the exploration, cleaning, and analysis of six datasets, providing a comprehensive approach to inventory management analysis.
