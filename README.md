@@ -79,7 +79,7 @@ ii) Explore dispersion of key metrics.
 
 
 
-SQL Phase: Data Analysis and Key Insights
+ 2) SQL Phase: Data Analysis and Key Insights
 
 
 Database Creation:
@@ -108,7 +108,7 @@ Identify Slow-Moving Items:
 i)  SQL to identify slow-moving items.
 
 
-Tableau Phase:  Presentation and Recommendations
+  3)Tableau Phase:  Presentation and Recommendations
 
 
 Data Connection:
@@ -150,7 +150,7 @@ i) Showcase strategies to enhance overall customer experience through improved i
 
 
 
-Final Presentation Preparation: Insights and Recommendations:
+ 4) Final Presentation Preparation: Insights and Recommendations:
 
 
 i) Compile key insights from Python and SQL phases.
